@@ -1,2 +1,2 @@
 # FateRankSystem
-Fate Another、Fate IMBA、FateIMBAII的通用rank系统
+Fate AnotherIII、Fate IMBA、FateIMBAII的通用rank系统
